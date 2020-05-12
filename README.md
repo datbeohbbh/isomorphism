@@ -9,7 +9,7 @@ see example.png ,we have 2 graphs ,now I will tell you how to get input from fil
   * each set of edges is entered until type = -1.
 
 - there are 4 types of edges in graph :
-     <ol>
+     <ol type="1">
          <li>type = 0 U V: arcs </li>
          <li>type = 1 U V: incident edge</li>
          <li>type = 2 U U : loop</li>
