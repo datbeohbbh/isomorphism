@@ -23,9 +23,9 @@ We have 2 graphs , see [example](https://github.com/datbeohbbh/isomorphism/blob/
 
 ## OUTPUT
 
-\- see [test.out](https://github.com/datbeohbbh/isomorphism/blob/master/test.out)
+output will look like [this](https://github.com/datbeohbbh/isomorphism/blob/master/test.out) .
 
-\- if you don't want to get input from file or print output to file , *just remove these lines* : 
+*if you don't want to get input from file or print output to file , *just remove these lines**
 
 ```c++
 #ifndef ONLINE_JUDGE
