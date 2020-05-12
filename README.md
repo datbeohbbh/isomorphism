@@ -18,3 +18,12 @@ see example.png ,we have 2 graphs ,now I will tell you how to get input from fil
 
 -so for each vertice u and each its adjacent vertices v,you need to enter corresponding type of edge then u and v.
 (see test.inp and test.out for detail)
+
+-if you don't want to get input from file or print output to file : 
+
+```cplusplus
+    #ifndef ONLINE_JUDGE
+    freopen(fn".inp","r",stdin);
+    freopen(fn".out","w",stdout);
+    #endif // ONLINE_JUDGE
+```
