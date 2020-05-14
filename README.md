@@ -4,7 +4,7 @@ We have 2 graphs , see [example](https://github.com/datbeohbbh/isomorphism/blob/
 
 ## INPUT 
 
-\- test.inp[https://github.com/datbeohbbh/isomorphism/blob/master/test.inp] contains <b>two</b> sets of graph G and H : 
+\- [test.inp](https://github.com/datbeohbbh/isomorphism/blob/master/test.inp) contains <b>two</b> sets of graph G and H : 
 
   * the first line is number n - the number of vertice
   * the second line is set of two graphs
