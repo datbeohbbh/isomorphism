@@ -1,10 +1,10 @@
 # Isomorphism
 
-We have 2 graphs , see [example](https://github.com/datbeohbbh/isomorphism/blob/master/example.png) for detail . 
+We have 2 graphs , see [example](/example.png) for detail . 
 
 ## INPUT 
 
-\- [test.inp](https://github.com/datbeohbbh/isomorphism/blob/master/test.inp) contains <b>two</b> sets of graph G and H : 
+\- [test.inp](/test.inp) contains <b>two</b> sets of graph G and H : 
 
   * the first line is number n - the number of vertice
   * the second line is set of two graphs
@@ -23,7 +23,7 @@ We have 2 graphs , see [example](https://github.com/datbeohbbh/isomorphism/blob/
 
 ## OUTPUT
 
-output will look like [this](https://github.com/datbeohbbh/isomorphism/blob/master/test.out) .
+output will look like [this](/test.out) .
 
 *if you don't want to get input from file or print output to file , *just remove these lines**
 
