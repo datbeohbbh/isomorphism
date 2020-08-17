@@ -12,10 +12,10 @@ We have 2 graphs , see [example](/example.png) for detail .
 
 - there are 4 types of edges in graph :
 
-    1. type = 0 U V : arc
-    2. type = 1 U V : incident edge
-    3. type = 2 U U : loop
-    4. type = 3 U U : no edges
+    * type = 0 U V : arc
+    * type = 1 U V : incident edge
+    * type = 2 U U : loop
+    * type = 3 U U : no edges
  
 
 - so for each vertice u and each its adjacent vertices v,you need to enter corresponding type of edge then u and v.
